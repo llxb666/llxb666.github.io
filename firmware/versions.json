@@ -1,0 +1,13 @@
+{
+  "records": [
+    {
+      "model": "通用",
+      "phy": "D",
+      "releaseSequence": 1,
+      "hardwareVersion": "DET2YGNMQN",
+      "csocket": "1.3.0",
+      "dsp": "D261120B",
+      "gw676": "2D0226081501"
+    }
+  ]
+}
